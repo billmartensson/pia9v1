@@ -13,6 +13,7 @@
 		AB83A0A125062BAE009722D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB83A09F25062BAE009722D0 /* Main.storyboard */; };
 		AB83A0A325062BAF009722D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB83A0A225062BAF009722D0 /* Assets.xcassets */; };
 		AB83A0A625062BAF009722D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB83A0A425062BAF009722D0 /* LaunchScreen.storyboard */; };
+		ABBF1BAB250A1480009A6A6A /* theotherone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBF1BAA250A1480009A6A6A /* theotherone.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB83A0A225062BAF009722D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB83A0A525062BAF009722D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB83A0A725062BAF009722D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABBF1BAA250A1480009A6A6A /* theotherone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theotherone.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AB83A09B25062BAE009722D0 /* SceneDelegate.swift */,
 				AB83A09D25062BAE009722D0 /* ViewController.swift */,
 				AB83A09F25062BAE009722D0 /* Main.storyboard */,
+				ABBF1BAA250A1480009A6A6A /* theotherone.swift */,
 				AB83A0A225062BAF009722D0 /* Assets.xcassets */,
 				AB83A0A425062BAF009722D0 /* LaunchScreen.storyboard */,
 				AB83A0A725062BAF009722D0 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB83A09E25062BAE009722D0 /* ViewController.swift in Sources */,
+				ABBF1BAB250A1480009A6A6A /* theotherone.swift in Sources */,
 				AB83A09A25062BAE009722D0 /* AppDelegate.swift in Sources */,
 				AB83A09C25062BAE009722D0 /* SceneDelegate.swift in Sources */,
 			);
